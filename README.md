@@ -10,7 +10,7 @@ API FastAPI para fazer scraping de dados da página da Embrapa, transformando es
 - `Python 3.7 ou superior`
 - `pip instalador`
 
-#libs
+## Bibliotecas
 
 - `fastapir`
 - `uvicorn`
