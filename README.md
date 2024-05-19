@@ -36,9 +36,12 @@ Retorna os dados para um ano e tipo específicos.
 
 ```sh
 curl -X GET "http://127.0.0.1:8000/dados/2023/Producao" -H "accept: application/json"
+```
 
 
 #### Exemplo de resposta
+
+```
 [
     {
         "Produto": "VINHO DE MESA",
@@ -57,4 +60,4 @@ curl -X GET "http://127.0.0.1:8000/dados/2023/Producao" -H "accept: application/
         "Quantidade (L.)": "2.531.246"
     }
 ]
-
+```
