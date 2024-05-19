@@ -5,6 +5,19 @@ Api rest para consulta de dados do site da Embrapa. Esse projeto faz parte da po
 
 API FastAPI para fazer scraping de dados da página da Embrapa, transformando esses dados em um formato estruturado e disponibilizando-os através de endpoints RESTful.
 
+## Instalação
+
+- `Python 3.7 ou superior`
+- `pip instalador`
+
+#libs
+
+- `fastapir`
+- `uvicorn`
+- `httpx`
+- `beautifulsoup4`
+- `gunicorn`
+  
 ## Funcionalidades
 
 - Scraping de dados da Embrapa
