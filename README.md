@@ -23,6 +23,21 @@ API FastAPI para fazer scraping de dados da página da Embrapa, transformando es
 - Scraping de dados da Embrapa
 - Exposição de dados através de endpoints RESTful
 
+## Passos para uso
+
+Instale as dependências:
+```sh
+pip install -r requirements.txt
+```
+
+Execute a aplicação:
+```sh
+uvicorn main:app --reload
+```
+
+Acesse a documentação automática da API:
+Abra seu navegador e vá para http://127.0.0.1:8000/docs para acessar a documentação interativa gerada pelo FastAPI.
+
 ## Endpoints
 
 ### GET /dados/{ano}/{tipo}
