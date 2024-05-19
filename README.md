@@ -1,7 +1,7 @@
 # api-rest-embrapa
 Api rest para consulta de dados do site da Embrapa. Esse projeto faz parte da pos-tech FIAP em Machine Learning Engineering
 
-# API
+# Descrição
 
 API FastAPI para fazer scraping de dados da página da Embrapa, transformando esses dados em um formato estruturado e disponibilizando-os através de endpoints RESTful.
 
