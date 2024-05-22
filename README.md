@@ -1,5 +1,5 @@
-# api-rest-embrapa
-Api rest para consulta de Dados da Vitivinicultura do site da Embrapa. Esse projeto faz parte da pos-tech FIAP em Machine Learning Engineering
+# rest-api-embrapa
+RestAPI para consulta de Dados da Vitivinicultura do site da Embrapa. Esse projeto faz parte da pos-tech FIAP em Machine Learning Engineering
 
 # Descrição
 
